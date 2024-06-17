@@ -1,5 +1,5 @@
 # PROJECT REPORTS
-  - This repo includes the final project reports for Vulnerability Assessment on [test.vulnweb](http://test.vulnweb.com) and Hacking Cycle on Windows 7 and Ubuntu systems.
+  - This repo includes the final project reports for Vulnerability Assessment on [testphp.vulnweb](http://testphp.vulnweb.com/) and Hacking Cycle on Windows 7 and Ubuntu systems.
 ## Vulnerability Assessment
   - In this session i've learnt the various to attack any website and grab the useful credentials. In the report i've mentioned multiple methods in detail.
     1. Cross-Site Scripting (XSS)
